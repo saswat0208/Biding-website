@@ -1,0 +1,8 @@
+.scroller-container {
+  /* width: 100%; */
+  /* padding-left: 20%; */
+  margin-left: 10%;
+}
+.upload-image:hover {
+  box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.253) !important;
+}

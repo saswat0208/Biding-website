@@ -1,0 +1,24 @@
+/* .carousel-container {
+  width: 100%;
+} */
+
+.image {
+  border-radius: 50px;
+  height: 40rem;
+  width: 70rem;
+}
+
+.carousel-textbox {
+  position: absolute;
+  top: 5rem;
+  left: 18rem;
+
+  color: white;
+}
+
+.carousel-title {
+  position: absolute;
+  top: 2rem;
+  left: 28rem;
+  color: rgb(183, 245, 13);
+}

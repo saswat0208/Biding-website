@@ -1,0 +1,28 @@
+{
+  "name": "auctopus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "concurrently --kill-others-on-fail \"cd ./client && npm install\" \"cd ./server && npm install\" \"cd ./socket-server && npm install\"",
+    "start-client": "cd ./client && npm start",
+    "start-server": "cd ./server && npm start",
+    "start-socket": "cd ./socket-server && npm start",
+    "dev": "concurrently --kill-others-on-fail \"npm run start-server\" \"npm run start-client\" \"npm run start-socket\"",
+    "start": "npm run start-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^6.0.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2",
+    "antd": "^4.14.0",
+    "material-ui": "^0.20.2",
+    "react-image-gallery": "^1.0.9",
+    "react-router-dom": "^5.2.0"
+  }
+}

@@ -1,0 +1,720 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+    
+    <title>background, color and colorful - image #2490404 on Favim.com</title>
+	<meta name="description" content="Inspiring images colour, fondo, gradient and ios #2490404. Resolution 1280x1280px. Find the image to your taste" />
+	<meta http-equiv="Cache-Control" content="no-cache">
+	
+
+<link rel="alternate" hreflang="ru" href="https://favim.ru/image/2490404/" />
+<link rel="alternate" hreflang="en" href="https://favim.com/image/2490404/" />
+<link rel="alternate" hreflang="x-default" href="https://favim.com/image/2490404/" />
+	
+	
+
+<link rel="canonical" href="https://favim.com/image/2490404/"/>
+
+
+
+
+    <!-- Styles -->
+<link rel="preload" href="https://s4.favim.com/orig/150218/background-color-colorful-colour-Favim.com-2490404.jpg" as="image" />
+        <link href="/assets/css/app.css" rel="stylesheet">
+    <link href="/assets/css/app-main.css?4" rel="stylesheet">
+
+    <style>
+        * {
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+<template id="tag-item-search-result">
+    <a class="tags--list-item" href="/:slug:/" title=":title: tagged images">:title: <span class="tags--list-item-count">:count:</span></a>
+</template>
+<template id="tag-item-search-result-asd">
+    <a class="tags--list-item" href="//tag/:slug:/" title=":title: tagged images">:title: <span class="tags--list-item-count">:count:</span></a>
+</template>
+<template id="nav-tab">
+    <div class="nav--tab :active:" id=":tabId:">
+        <div class="tags--list-wrapper">
+            <div class="tags--list-overflow draggable">
+                <div class="tags--list draggable">
+                    :tagsHTML:
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+<template id="tags-tab">
+    <div class="nav--tab" id="tags-tab">
+        <div class="nav--tab-search">
+            <div class="nav--tab-search-icon">
+                <img src="/assets/img/giftscluster_imgs/search.svg" alt="">
+            </div>
+            <input type="text" name="tags_search" placeholder="">
+        </div>
+        <div class="tags--list-wrapper">
+            <div class="tags--list draggable">
+            </div>
+        </div>
+    </div>
+</template>
+<template id="tab-search-result">
+    <div class="tab-search--result">
+        <div class="tab-search--result-placeholder"></div>
+    </div>
+</template>
+
+<header class="header">
+    <div class="header--content">
+        <div class="header--logo">
+            <a href="/">
+                <img src="/assets/logo_new4.svg" alt="Favim logo">
+            </a>
+			            </div>
+        <div class="header--auth">
+                            <a href="/login" class="header--auth-link">Login</a>
+                <a href="/registration" class="header--auth-link">Sign up</a>
+                    </div>
+    </div>
+</header>
+
+<nav class="nav">
+    <div class="nav--content">
+        <div class="nav--menu">
+            <a class="nav--menu-item " href="/" data-tab-id="tags-tab" data-page="tabs">
+                <img src="/assets/img/hashtag.svg" alt="">
+                Tags            </a>
+            <a class="nav--menu-item " href="https://8outfits.com/" data-tab-id="outfits-tab" data-page="outfits">
+                <img src="/assets/img/clothes.svg" alt="">
+                Outfits            </a>
+            <a class="nav--menu-item" href="https://8interiors.com/" target="_blank"  href="#" data-tab-id="colors-tab">
+                <img src="/assets/img/box.svg" alt="">
+                Interiors            </a>
+        </div>
+        <div class="nav--tab-search-mobile" >
+            <div class="nav--tab-search-wrapper">
+                <div class="nav--tab-search">
+                    <div class="nav--tab-search-icon">
+                        <img src="/assets/img/giftscluster_imgs/search.svg" alt="">
+                    </div>
+                    <input type="text" name="search_q" placeholder="Start typing...">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</nav>
+
+<div class="nav--tabs">
+    </div>
+
+    <div class="login-popup--backdrop">
+        <div class="login-popup">
+            <div class="login-popup--header">
+                <div class="login-popup--title">
+                    Log in
+                </div>
+                <div class="login-popup--close">
+                    <svg viewBox="-280 413.9 14 14" class="popup-close-icon">
+                        <path d="M-266,415.3l-1.4-1.4l-5.6,5.6l-5.6-5.6l-1.4,1.4l5.6,5.6l-5.6,5.6l1.4,1.4l5.6-5.6l5.6,5.6l1.4-1.4l-5.6-5.6L-266,415.3z"></path>
+                        <path d="M-285,408.9h24v24h-24V408.9z" fill="none"></path>
+                    </svg>
+                </div>
+            </div>
+            <div class="login-popup--content">
+                <form action="/login/?redirect_to=https://favim.com/image/2490404/" method="POST">
+                    <div class="form-group">
+                        <input autocomplete="off" name="nickname_email" id="popup_nickname" type="text" placeholder="Email or nickname" class="frms">
+                    </div>
+                    <div class="form-group">
+                        <input autocomplete="off" placeholder="Password" id="popup_password" type="password" name="password" class="frms">
+                    </div>
+                    <div class="form-group login-popup--buttons">
+                        <a href="/registration">Sign up</a>
+                        <span class="delimiter">or</span>
+                        <button type="submit">Log in</button>
+
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+<div id="app">
+
+<div class="page" data-search-type="en">
+    <div class="wear-item" data-entity-id="2490404" data-entity-type="f_image"
+         >
+        <div class="wear-item--content">
+            <div class="wear-item--info">
+                <div class="wear-item--info-main">
+                    <div class="wear-item--user">
+                        <div class="wear-item--user-left">
+                            <div class="wear-item--user-icon">
+                                <svg width="40" height="40" viewBox="0 0 40 40" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M4.24844 22.5805C6.59478 22.5805 8.49687 20.6784 8.49687 18.332C8.49687 15.9857 6.59478 14.0836 4.24844 14.0836C1.90209 14.0836 0 15.9857 0 18.332C0 20.6784 1.90209 22.5805 4.24844 22.5805Z"
+                                          fill="#F7C2AD"/>
+                                    <path opacity="0.2"
+                                          d="M4.24811 20.9815C3.54084 20.9815 2.87592 20.7063 2.37561 20.2063C1.87506 19.7062 1.5992 19.041 1.59897 18.3333C1.59873 17.6257 1.87397 16.9604 2.37413 16.4598C2.87428 15.9593 3.53944 15.6834 4.24709 15.6832C4.24741 15.6832 4.2478 15.6832 4.24819 15.6832C5.70842 15.6832 6.8967 16.8708 6.89741 18.3312C6.89795 19.792 5.71006 20.9809 4.24928 20.9815C4.24889 20.9815 4.24842 20.9815 4.24811 20.9815ZM4.24873 19.8097L4.24897 20.3956L4.24873 19.8097C5.06334 19.8093 5.72577 19.1464 5.72545 18.3317C5.72514 17.5174 5.06241 16.855 4.24811 16.855C4.24788 16.855 4.2478 16.855 4.24748 16.855C3.85288 16.8552 3.48202 17.009 3.20303 17.2882C2.92413 17.5673 2.77061 17.9383 2.77077 18.3329C2.77092 18.7275 2.92475 19.0985 3.20389 19.3774C3.48287 19.6561 3.85373 19.8097 4.24811 19.8097C4.24834 19.8097 4.2485 19.8097 4.24873 19.8097Z"
+                                          fill="#E86478"/>
+                                    <path d="M35.7516 22.5805C38.0979 22.5805 40 20.6784 40 18.332C40 15.9857 38.0979 14.0836 35.7516 14.0836C33.4052 14.0836 31.5031 15.9857 31.5031 18.332C31.5031 20.6784 33.4052 22.5805 35.7516 22.5805Z"
+                                          fill="#F7C2AD"/>
+                                    <path opacity="0.2"
+                                          d="M35.7519 20.9815C35.7515 20.9815 35.7512 20.9815 35.7508 20.9815C34.29 20.9809 33.1021 19.792 33.1026 18.3312C33.1033 16.8709 34.2917 15.6832 35.7519 15.6832C35.7523 15.6832 35.7525 15.6832 35.753 15.6832C36.4606 15.6835 37.1258 15.9593 37.6259 16.4598C38.1261 16.9604 38.4014 17.6257 38.4011 18.3333C38.4009 19.041 38.125 19.7061 37.6244 20.2063C37.1241 20.7062 36.4591 20.9815 35.7519 20.9815ZM35.7512 19.8097C35.7515 19.8097 35.7516 19.8097 35.7519 19.8097C36.1462 19.8097 36.5171 19.6561 36.7961 19.3774C37.0752 19.0985 37.2291 18.7275 37.2292 18.3329C37.2294 17.9383 37.0759 17.5673 36.7969 17.2882C36.518 17.009 36.1471 16.8552 35.7525 16.855C35.7523 16.855 35.7521 16.855 35.7519 16.855C34.9376 16.855 34.2749 17.5173 34.2745 18.3317C34.2742 19.1463 34.9366 19.8093 35.7512 19.8097Z"
+                                          fill="#E86478"/>
+                                    <path d="M37.5151 17.5523C37.5151 8.21305 29.6733 0.642029 20 0.642029C10.3267 0.642029 2.48492 8.21305 2.48492 17.5523V32.0967C2.48492 36.107 5.73594 39.358 9.74617 39.358H30.2538C34.2641 39.358 37.5151 36.107 37.5151 32.0967V17.5523Z"
+                                          fill="#485458"/>
+                                    <path opacity="0.1"
+                                          d="M25.2329 36.1276H14.8094C9.23287 36.1276 4.71225 31.607 4.71225 26.0305V18.0389H35.3299V26.0306C35.33 31.607 30.8094 36.1276 25.2329 36.1276Z"
+                                          fill="black"/>
+                                    <path d="M20 33.7336C28.443 33.7336 35.2875 26.7069 35.2875 18.039C35.2875 9.37119 28.443 2.34451 20 2.34451C11.5569 2.34451 4.71248 9.37119 4.71248 18.039C4.71248 26.7069 11.5569 33.7336 20 33.7336Z"
+                                          fill="#F7C2AD"/>
+                                    <path opacity="0.05"
+                                          d="M7.31117 16.3491C13.3292 16.4536 24.2274 16.2408 29.1068 12.1754C30.357 14.8965 32.8483 16.2218 35.2202 16.5666C34.4971 8.58928 27.9595 2.34436 20 2.34436C11.5569 2.34436 4.71234 9.371 4.71234 18.0388C4.71234 26.7066 11.5569 33.7333 20 33.7333C24.7488 33.7333 28.9918 31.5105 31.7958 28.0232C29.0966 30.4837 25.5437 31.9789 21.65 31.9789C13.5413 31.9789 6.9075 25.4978 6.39468 17.3062C6.36187 16.7812 6.78531 16.34 7.31117 16.3491Z"
+                                          fill="black"/>
+                                    <path d="M12.6227 19.1765C12.2991 19.1765 12.0368 18.9142 12.0368 18.5905V17.3659C12.0368 17.0422 12.2991 16.78 12.6227 16.78C12.9463 16.78 13.2086 17.0422 13.2086 17.3659V18.5905C13.2086 18.9142 12.9463 19.1765 12.6227 19.1765Z"
+                                          fill="#485458"/>
+                                    <path d="M27.3773 19.1765C27.0537 19.1765 26.7914 18.9142 26.7914 18.5905V17.3659C26.7914 17.0422 27.0537 16.78 27.3773 16.78C27.7009 16.78 27.9632 17.0422 27.9632 17.3659V18.5905C27.9632 18.9142 27.7009 19.1765 27.3773 19.1765Z"
+                                          fill="#485458"/>
+                                    <path d="M20 20.1168C19.0852 20.1168 18.2153 19.7206 17.6133 19.0297C17.4007 18.7857 17.4261 18.4157 17.6701 18.203C17.914 17.9904 18.2841 18.0159 18.4968 18.2598C18.8762 18.6952 19.4241 18.945 20.0001 18.945C20.576 18.945 21.1239 18.6953 21.5033 18.2598C21.716 18.0158 22.0862 17.9905 22.3301 18.203C22.574 18.4157 22.5994 18.7857 22.3869 19.0297C21.7847 19.7206 20.9147 20.1168 20 20.1168Z"
+                                          fill="#485458"/>
+                                    <path d="M36.5017 15.5672C33.8014 15.5672 30.5858 14.3014 29.1068 11.0824C22.8434 16.301 6.66109 15.1714 3.61609 15.1714C3.61609 12.5032 6.60367 1.55573 20 1.55573C33.3963 1.55573 36.5017 13.1547 36.5017 15.5672Z"
+                                          fill="#485458"/>
+                                    <g opacity="0.1">
+                                        <path opacity="0.1"
+                                              d="M10.5469 12.9636C10.2233 12.9636 9.96094 12.7013 9.96094 12.3776C9.96094 12.054 10.2233 11.7917 10.5469 11.7917C12.9216 11.7917 20.841 11.0252 23.992 8.67848C24.2515 8.48512 24.6185 8.53879 24.8119 8.7984C25.0052 9.05786 24.9515 9.42504 24.692 9.61825C20.9812 12.382 12.1348 12.9636 10.5469 12.9636Z"
+                                              fill="black"/>
+                                        <path opacity="0.1"
+                                              d="M17.4437 8.69859C17.1518 8.69859 16.8991 8.48077 16.8627 8.18367C16.8234 7.86249 17.052 7.57015 17.3733 7.53101C18.6674 7.37281 22.7507 6.12632 24.0009 5.23195C24.2641 5.04374 24.6301 5.10452 24.8184 5.36765C25.0066 5.63085 24.9459 5.99687 24.6827 6.18515C23.1502 7.28132 18.7595 8.5421 17.5153 8.69413C17.4914 8.6971 17.4673 8.69859 17.4437 8.69859Z"
+                                              fill="black"/>
+                                    </g>
+                                </svg>
+                            </div>
+                            <div class="wear-item--user-content">
+                                <div class="wear-item--user-nickname">Lauralai</div>
+                                <div class="wear-item--user-published">6 years ago</div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="wear-item--info-meta">
+                        <div class="wear-item--meta wear-item--meta-set">
+                            <div class="wear-item--meta-icon">
+                                                                    <img src="/assets/img/star-save.svg" alt="">
+                                                            </div>
+                            <div class="wear-item--meta-text">2</div>
+                        </div>
+                        <div class="wear-item--meta">
+                            <div class="wear-item--meta-icon">
+                                <img src="/assets/img/comments.svg" alt="">
+                            </div>
+                            <div class="wear-item--meta-text">0</div>
+                        </div>
+                        <a class="wear-item--link" href="http://41.media.tumblr.com/42f85cbeecdc2fffa46e7a1039b4cca2/tumblr_niwab4uueQ1tf8vylo1_1280.png" rel="nofollow" target="_blank"><span class="wear-item--link-text">41.media.tumblr.com</span></a>                    </div>
+                    <div class="wear-item--info-set hidden-border">
+                        <div class="wear-item-set">
+                            <div class="wear-item-set--title">
+                                                                    Select your set...                                                            </div>
+                            <div class="wear-item-set--icon">
+                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0)">
+                                        <path d="M6.00031 3.65118L11.4197 9.07057C11.553 9.20386 11.7668 9.20386 11.9 9.07057C12.0333 8.93729 12.0333 8.72353 11.9 8.59025L6.23922 2.92943C6.10593 2.79615 5.89217 2.79615 5.75889 2.92943L0.100586 8.59025C0.0352008 8.65563 -6.95661e-06 8.74365 -6.94689e-06 8.82916C-6.93716e-06 8.91466 0.032686 9.00268 0.100586 9.06806C0.23387 9.20135 0.447628 9.20135 0.580912 9.06806L6.00031 3.65118Z"
+                                              fill="#CBCBCB"/>
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0">
+                                            <rect width="12" height="12" fill="white"
+                                                  transform="translate(12) rotate(90)"/>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0)">
+                                        <path d="M5.99969 8.34882L0.580291 2.92943C0.447006 2.79614 0.233248 2.79614 0.0999632 2.92943C-0.0333213 3.06271 -0.0333213 3.27647 0.0999632 3.40975L5.76078 9.07057C5.89407 9.20385 6.10783 9.20385 6.24111 9.07057L11.8994 3.40975C11.9648 3.34437 12 3.25635 12 3.17085C12 3.08534 11.9673 2.99732 11.8994 2.93194C11.7661 2.79866 11.5524 2.79866 11.4191 2.93194L5.99969 8.34882Z"
+                                              fill="#CBCBCB"/>
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0">
+                                            <rect width="12" height="12" fill="white"
+                                                  transform="translate(0 12) rotate(-90)"/>
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="sets-block">
+                                                    </div>
+                    </div>
+                </div>
+                <div class="wear-item--info-tags">
+                    <div class="wear-item-tags--label">
+                        Tags:                    </div>
+                    <div class="wear-item-tags--list">
+						                                               					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/background/" title="background ">
+                                background</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/color/" title="color ">
+                                color</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/colorful/" title="colorful ">
+                                colorful</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/colour/" title="colour ">
+                                colour</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/fondo/" title="fondo ">
+                                fondo</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/gradient/" title="gradient ">
+                                gradient</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/ios/" title="ios ">
+                                ios</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/iphone+wallpaper/" title="iphone wallpaper ">
+                                iphone wallpaper</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/lalala/" title="lalala ">
+                                lalala</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/wallpaper/" title="wallpaper ">
+                                wallpaper</a>
+														
+							
+							
+                        					   
+					   
+					   
+                            							<a class="wear-item-tags--item" href="/wallpapers/" title="wallpapers ">
+                                wallpapers</a>
+														
+							
+							
+                        									
+                    </div>
+
+					
+                </div>
+            </div>
+            <div class="wear-item--content-main--wrapper">
+                <div class="wear-item--content-main">
+                    <div class="wear-item--header">
+                        <div class="breadcrumbs">
+                            <ol class="breadcrumb" vocab="http://schema.org/" typeof="BreadcrumbList">
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/">
+                                        <span property="name">Home</span>
+                                    </a>
+                                    <meta property="position" content="2">
+                                </li>
+                                <li property="itemListElement" typeof="ListItem">
+                                    <a property="item" typeof="WebPage" href="/">
+                                        <span property="name">image #2490404</span>
+                                    </a>
+                                    <meta property="position" content="2">
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+
+					<div class="wear-item--opis">
+                        <div class="wear-item--user-left">
+                        </div>
+                        <div class="wear-item--user-right">
+                            <div class="wear-item--share-cocial">
+							<div class="paggination" style="border: none;height: 39px;box-shadow: -2px 3px 10px rgb(136 136 136 / 15%);">
+				
+<a class="prev paggination__link" href="/redirect/next/2490404/" rel="nofollow" style="margin-right: 0px;padding: 10px;">←</a>
+<a class="paggination__shuffle next" href="/redirect/shuffle/2490404/" rel="nofollow" style="margin-right: 0px;font-size: 10px;padding: 10px;">shuffle</a>
+<a class="paggination__link next" href="/redirect/prev/2490404/" rel="nofollow" style="padding: 10px;">→</a>
+</div>
+                            </div>
+                        </div>
+                    </div>
+					
+
+                </div>				
+
+                <div class="wear-item--comments">
+                    <div class="comments--block">
+                        <div class="comments--block-wrapper">
+                            <div class="comment--form">
+                                <div class="comment--form-header">
+                                    <div class="comment--form-title"></div>
+                                </div>
+                                <div class="comment--form-body">
+                                    <div class="comment--form-avatar">
+                                                                                    <img src="/assets/img/avatar.svg" alt="anonymous">
+                                                                            </div>
+                                    <form action="#" method="POST">
+                                        <input type="hidden" name="entity_type" value="f_image">
+                                        <input type="hidden" name="parent_id" value="0">
+                                        <input type="hidden" name="entity_id" value="2490404">
+                                        <textarea name="text" required="" placeholder="Type a comment here"></textarea>
+                                        <button type="submit" title="Send"><img src="/assets/img/enter-arrow.svg"
+                                                                                alt="send icon"></button>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="comments-wrapper"><div class="comments-empty">No comments yet</div></div>                        </div>
+                    </div>
+
+                </div>
+
+                <div class="wear-item--image">
+                    <img src="https://s4.favim.com/orig/150218/background-color-colorful-colour-Favim.com-2490404.jpg" width="1280" height="1280" alt="background, color and colorful">
+                    <div class="wear-item--image-info">
+					
+                        <div class="tag-gift--right">
+                            <div style="font-size: 14px;
+    width: 100%;
+    padding: 22px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #ededed;
+	    color: #9cdca3;">
+                                24.49 Kb</div>
+                            <div style="    padding: 22px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    line-height: 22px;
+    font-size: 13px;
+    color: #9a9a9a;
+	border-bottom: 1px solid #ededed;">
+                                1280 x 1280 px.
+                            </div>
+                            <div style="   border-bottom: 1px solid #ededed; padding: 22px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    line-height: 22px;
+    font-size: 13px;
+    color: #9a9a9a;">
+                                <div class="report-popup--show" data-tooltip="Please log in" data-tooltip-location="top">report</div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+				                            <div style="order: 2;padding: 10px 0 4px 0;display: flex;align-items: center;justify-content: center; width: 100%;line-height: 14px;
+    font-size: 13px;
+    color: #9a9a9a;">
+                                All images remain property of their original owners.                            </div>
+				
+
+            </div>
+        </div>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+<div class="wear-group--items" style="margin-top:30px;">
+<div style="font-size:24px;width:100%;margin-bottom:20px;padding-bottom:5px;border-bottom: 2px solid #e8e8e8;">More like this:</div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/3129721/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/3/312/3129/31297/3129721.png" alt="background, colors and colours"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2935543/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/293/2935/29355/2935543.jpg" alt="background, colors and fondos"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2789733/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/278/2789/27897/2789733.jpg" alt="background, colorful and colour"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2605842/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/260/2605/26058/2605842.jpg" alt="background, colorful and colour"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2532776/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/253/2532/25327/2532776.jpg" alt="background, backgrounds and colors"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2490516/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/249/2490/24905/2490516.jpg" alt="background, backgrounds and color"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2490483/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/249/2490/24904/2490483.jpg" alt="background, backgrounds and colorful"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2490464/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/249/2490/24904/2490464.jpg" alt="colorful, wallpaper and backgrounds"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2477098/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/247/2477/24770/2477098.jpg" alt="background, fondo and hipster"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2476868/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/247/2476/24768/2476868.jpg" alt="background, colorful and colors"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2451914/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/245/2451/24519/2451914.jpg" alt="background, backgrounds and color"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/2274457/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/2/227/2274/22744/2274457.jpg" alt="background, backgrounds and colorful"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/1650016/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/1/165/1650/16500/1650016.jpg" alt="background, colorful and colors"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	
+	                     
+<div class="wear-item" data-entity-id="394869" data-entity-type="f_image" data-in-set="380">
+                                <div class="wear-item--top">
+                                    
+									                                    <div class="wear-item--image">
+									
+                                        <a href="/image/1140474/">
+										<img src="/assets/img/blank.gif" data-src="https://1tb.favim.com/preview/1/114/1140/11404/1140474.jpg" alt="*-*, colors and iphone 5c wallpaper"></a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+	 </div>
+
+ 	
+		
+		
+		
+
+		
+		
+		
+		
+		
+    </div>
+</div>
+</div>
+<div style="height:30px;"></div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="/assets/js/nouislider.js"></script>
+
+<script src="/assets/js/fabric.min.js?1"></script>
+
+<script src="/assets/js/main.js?3"></script>
+
+<template id="set-block-auth">
+    <div class="sets-block--auth">
+        Please login to work with sets.
+    </div>
+</template>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-24592817-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-24592817-1');
+</script>
+
+      </body>
+</html>

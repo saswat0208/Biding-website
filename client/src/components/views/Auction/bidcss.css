@@ -1,0 +1,30 @@
+.bid-container {
+  position: relative;
+  margin: 8px 6px 6px;
+  /* padding: 8px 2px; */
+  /* background-color: aqua; */
+  height: 30vh;
+  width: 41vh;
+}
+.bid-text {
+  position: absolute;
+  bottom: 40px;
+  right: 50px;
+  font-family: cursive;
+  color: brown;
+}
+.bid-value {
+  position: absolute;
+  bottom: -2px;
+  right: 20px;
+}
+
+.right {
+  float: right;
+  clear: both;
+}
+
+.left {
+  float: left;
+  clear: both;
+}
